@@ -5,4 +5,4 @@ O dentista Roberto.
 **Qual o objetivo do sistema dele?**\
 Um sistema de gestão de atendimentos de uma clínica odontológica.
 
-<img src="assets/img/roberto(1).jpg" alt="clinica sorriso DER" />
+<img src="assets/img/roberto.jpg" alt="clinica sorriso DER" />
